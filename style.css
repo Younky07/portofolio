@@ -1,0 +1,11 @@
+.row{
+    border: 1px solid orange;
+}
+
+.box{
+    padding: 40px;
+    background: black;
+    margin: 10px;
+    text-align: center;
+    color: orange;
+}
